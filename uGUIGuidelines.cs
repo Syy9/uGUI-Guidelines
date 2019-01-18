@@ -61,7 +61,7 @@ namespace Syy.uGUIGuidelines
             {
                 if(targets.Count() == 0)
                 {
-                    EditorGUILayout.LabelField("Check RectTransform's HierarhcyGUI toggle box or click \"c\" button");
+                    EditorGUILayout.LabelField("Check RectTransform's HierarchyGUI toggle box or click \"c\" button");
                 } else {
                     foreach (var item in targets)
                     {
